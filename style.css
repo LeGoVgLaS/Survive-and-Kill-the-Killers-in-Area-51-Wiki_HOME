@@ -1,0 +1,210 @@
+.bg{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: -20000000;
+}
+.f{
+/* image 2 */
+
+/* image 2 */
+
+position: absolute;
+width: 457.5px;
+height: 183px;
+left: 742px;
+top: 101px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+
+
+}
+body{
+    background-color: black;
+}
+
+
+
+    /* Rectangle 3 */
+
+.main{
+    /* Rectangle 3 */
+
+position: absolute;
+width: 900px;
+height: 958px;
+left: 523px;
+top: 22px;
+z-index: -2000000;
+
+border-radius: 14px;
+
+}
+.Home{
+position: absolute;
+width: 180px;
+height: 55px;
+left: 536px;
+top: 22px;
+font-family:'Lucida Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+color: #FFFFFF;
+
+
+}
+.block{
+    /* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: relative;
+width: 671px;
+height: 289px;
+left: 638px;
+top: 272px;
+
+background: #515151;
+border: 1px solid #838383;
+border-radius: 19px;
+z-index: -200000;
+}
+.fandom{
+    /* image 6 */
+ position:absolute;
+width: 597px;
+height: 150px;
+left: 662px;
+top: 1141px;
+z-index: -20000;
+}
+footer{
+    background-color: #515151;
+}
+.hello{
+    /* Welcome to the Survive and Kill the Killers in Area 51 Wiki! */
+
+position: absolute;
+width: 592px;
+height: 95px;
+left: 682px;
+top: 300px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+.EtotSait{
+    /* Етот сайт про игру:  Survive and Kill the Killers in Area 51 !!!, созданим: homermafia1 в роблокс. */
+
+position: absolute;
+width: 547px;
+height: 96px;
+left: 698px;
+top: 405px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+}
+.liniya1{
+    /* Line 1 */
+
+position: absolute;
+width: 552px;
+
+left: 698px;
+top: 362px;
+z-index: -20000;
+}
+
+.block2{
+    /* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 671px;
+height: 359px;
+left: 638px;
+top: 599px;
+
+
+}
+.teleporters{
+    /* Wiki Navigation */
+
+position: absolute;
+width: 257px;
+height: 19px;
+left: 886px;
+top: 637px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+}
+.liniya2{
+    /* Line 2 */
+
+position: absolute;
+width: 549px;
+left: 695px;
+top: 691px;
+
+
+}
+.teleporters1{
+/* image 3 */
+
+position: absolute;
+width: 158px;
+height: 158px;
+left: 698px;
+top: 715px;
+
+}
+.teleporters2{
+    /* image 4 */
+
+position: absolute;
+width: 158px;
+height: 158px;
+left: 894px;
+top: 715px;
+
+}
+.teleporters3{
+   /* image 5 */
+
+position: absolute;
+width: 158px;
+height: 158px;
+left: 1093px;
+top: 715px;
+ 
+}
