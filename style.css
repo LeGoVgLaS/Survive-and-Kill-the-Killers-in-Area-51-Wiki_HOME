@@ -184,8 +184,9 @@ top: 691px;
 position: absolute;
 width: 158px;
 height: 158px;
-left: 698px;
+left: 894px;
 top: 715px;
+
 
 }
 .teleporters2{
@@ -207,4 +208,9 @@ height: 158px;
 left: 1093px;
 top: 715px;
  
+}
+.teleporters1:hover {
+    content: url("sd.png");
+    transition: 0.3s ease;
+
 }
